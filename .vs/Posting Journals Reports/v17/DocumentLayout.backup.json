@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Posting Journals Reports_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B979161F-AA4F-4FFA-8A19-A326500F91AF}|Vendor Ledger Report\\Journal Posting Entries.vbproj|c:\\users\\asus\\source\\repos\\posting journals reports_final\\vendor ledger report\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B979161F-AA4F-4FFA-8A19-A326500F91AF}|Vendor Ledger Report\\Journal Posting Entries.vbproj|solutionrelative:vendor ledger report\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979161F-AA4F-4FFA-8A19-A326500F91AF}|Vendor Ledger Report\\Journal Posting Entries.vbproj|C:\\Users\\ASUS\\source\\repos\\Posting Journals Reports_Final\\vendor ledger report\\frmreportviewer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B979161F-AA4F-4FFA-8A19-A326500F91AF}|Vendor Ledger Report\\Journal Posting Entries.vbproj|solutionrelative:vendor ledger report\\frmreportviewer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979161F-AA4F-4FFA-8A19-A326500F91AF}|Vendor Ledger Report\\Journal Posting Entries.vbproj|C:\\Users\\ASUS\\source\\repos\\Posting Journals Reports_Final\\vendor ledger report\\frmreportviewer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B979161F-AA4F-4FFA-8A19-A326500F91AF}|Vendor Ledger Report\\Journal Posting Entries.vbproj|solutionrelative:vendor ledger report\\frmreportviewer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Posting Journals Reports_Final\\Vendor Ledger Report\\Form1.vb",
+              "RelativeDocumentMoniker": "Vendor Ledger Report\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Posting Journals Reports_Final\\Vendor Ledger Report\\Form1.vb [Design]",
+              "RelativeToolTip": "Vendor Ledger Report\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-04T09:06:49.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmReportViewer.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Posting Journals Reports_Final\\Vendor Ledger Report\\frmReportViewer.vb",
+              "RelativeDocumentMoniker": "Vendor Ledger Report\\frmReportViewer.vb",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Posting Journals Reports_Final\\Vendor Ledger Report\\frmReportViewer.vb",
+              "RelativeToolTip": "Vendor Ledger Report\\frmReportViewer.vb",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAiwNgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-04T05:20:33.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmReportViewer.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Posting Journals Reports_Final\\Vendor Ledger Report\\frmReportViewer.vb",
+              "RelativeDocumentMoniker": "Vendor Ledger Report\\frmReportViewer.vb",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Posting Journals Reports\\Vendor Ledger Report\\frmReportViewer.vb [Design]",
+              "RelativeToolTip": "..\\Posting Journals Reports\\Vendor Ledger Report\\frmReportViewer.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-04T05:20:30.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
